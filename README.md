@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **nikith391@gmail.com**
 
-- ⚡ Fun fact **Of course! Here is another fun fact for your GitHub README file: ## Fun Fact I love solving puzzles and often participate in online escape rooms to challenge my problem-solving skills!**
+- ⚡ Fun fact I love solving puzzles and often participate in online escape rooms to challenge my problem-solving skills!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
