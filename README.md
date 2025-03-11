@@ -1,14 +1,11 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nikith S</h1>
-<h3 align="center">A passionate MERN stack developer from India. I am currently pursuing a Bachelor's degree in Computer Science Engineering and have a deep interest in full-stack web development. I enjoy creating dynamic and responsive web applications and continuously enhancing my skills.</h3>
+<h3 align="center">I am a highly motivated Computer Science student with a strong foundation in software development, cloud
+computing, and DevOps practices. With a keen interest in full-stack web development and automation, I am
+dedicated to improving system efficiency and reliability. My ability to adapt and learn new technologies allows me to
+continuously enhance my skills and contribute to impactful solutions in the tech industry..</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [Eraser.io](https://github.com/Nikith-S/eraser.io)
-
-- 🌱 I’m currently learning **Nextjs, TypeScript**
-
-- 💬 Ask me about **Web Development , MERN**
 
 - 📫 How to reach me **nikith391@gmail.com**
 
